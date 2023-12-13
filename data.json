@@ -1,0 +1,156 @@
+{
+    "Comment": [
+	{
+        "id": 0,
+        "productId": 0,
+        "rating": 5,
+        "comment": "Giày đẹp quá, đi lên chân êm và thoải mái cực kỳ!",
+        "author": "John Lemon",
+        "date": "2022-10-16T17:57:28.556094Z"
+    },
+    {
+        "id": 1,
+        "productId": 1,
+        "rating": 4,
+        "comment": "Chắc chắn đáng tiền, mình rất hài lòng với chất lượng của đôi giày này",
+        "author": "Paul McVites",
+        "date": "2017-09-05T17:57:28.556094Z"
+    },
+    {
+        "id": 2,
+        "productId": 2,
+        "rating": 3,
+        "comment": "Mẫu mã thời trang, kiểu dáng hợp thời, ưng ý",
+        "author": "Michael Jaikishan",
+        "date": "2018-02-13T17:57:28.556094Z"
+    },
+    {
+        "id": 3,
+        "productId": 3,
+        "rating": 4,
+        "comment": "Giày chất lượng cao, đi lại êm ái, rất đáng để đầu tư",
+        "author": "Ringo Starry",
+        "date": "2019-12-02T17:57:28.556094Z"
+    },
+    {
+        "id": 4,
+        "productId": 4,
+        "rating": 2,
+        "comment": "Đế giày bám tốt, đi trời mưa không lo trơn trượt",
+        "author": "25 Cent",
+        "date": "2019-12-02T17:57:28.556094Z"
+    },
+    {
+        "id": 5,
+        "productId": 5,
+        "rating": 5,
+        "comment": "Giày bền đẹp, đi lâu không bị hỏng, giá cả hợp lý",
+        "author": "John Lemon",
+        "date": "2018-10-16T17:57:28.556094Z"
+    },
+    {
+        "id": 6,
+        "productId": 6,
+        "rating": 4,
+        "comment": "Form giày ôm chân, đi lên rất vừa vặn và thoải mái",
+        "author": "Paul McVites",
+        "date": "2020-09-05T17:57:28.556094Z"
+    },
+    {
+        "id": 7,
+        "productId": 7,
+        "rating": 3,
+        "comment": "Thương hiệu uy tín, chất lượng đảm bảo, dịch vụ chăm sóc khách hàng tốt",
+        "author": "Michael Jaikishan",
+        "date": "2022-02-13T17:57:28.556094Z"
+    },
+    {
+        "id": 8,
+        "productId": 8,
+        "rating": 4,
+        "comment": "Giày nhẹ, đi lại linh hoạt, rất thích hợp cho hoạt động thể thao",
+        "author": "Ringo Starry",
+        "date": "2023-12-02T17:57:28.556094Z"
+    },
+    {
+        "id": 9,
+        "productId": 9,
+        "rating": 2,
+        "comment": "Mình rất thích kiểu dáng của đôi giày này, nhìn rất phong cách và cá tính.",
+        "author": "25 Cent",
+        "date": "2023-12-02T17:57:28.556094Z"
+    }
+],
+    "Product":[
+	{
+        "id": 0,
+        "image": "/",
+        "name": "Balenciaga Triple S Trainer Yellow Green",
+        "price": "5,000,000",
+        "description": "Đây là thương hiệu thời trang lâu đời nổi tiếng, cao cấp nhất nhì thế giới được thành lập từ năm 1919.Tại Việt Nam, giày Triple S được rất nhiều nghệ sĩ nổi tiếng yêu thích."
+	},	
+	{
+        "id": 1,
+        "image": "/",
+        "name": "Air Max 270 Black White",
+        "price": "4,000,000",
+        "description": "Mùa hè năm 2018, Nike chính thức ra mắt Air Max 270, một trong những đứa con mới nhất của nhà swoosh dành cho đại gia đình Air Max."
+	},
+	{
+        "id": 2,
+        "image": "/",
+        "name": "New Balance 990V3 JJJJound Olive Encap",
+        "price": "4,000,000",
+        "description": "Thương hiệu giày New Balance có tiền thân là công ty New Balance Arch Support Company được thành lập vào năm 1906 tại Boston, Massachusetts, Hoa Kỳ."
+	},
+	{
+        "id": 3,
+        "image": "/",
+        "name": "New Balance 550 X Aimé Leon Dore ‘Brown’",
+        "price": "3,500,000",
+        "description": "Làn sóng Vintage hay những thiết kế mang phong cách hoài cổ đang trở lại mạnh mẽ trong thời gian gần đây. Kiểu dáng đơn giản nhưng là tinh hoa của nhiều công trình nghiên cứu trong nhiều năm."
+	},
+	{
+        "id": 4,
+        "image": "/",
+        "name": "M2K Tekno White Black Orange",
+        "price": "4,500,000",
+        "description": "Nike một lần nữa khiến giới chơi giày xôn xao khi ra mắt M2K Tekno. Vẫn xu hướng “chunky shoes” đã thống lĩnh thị trường trong năm 2019, Nike thể hiện mình không bỏ lỡ cuộc đua này với Nike M2K Tekno cùng những phối màu độc đáo, thân giày hoạ tiết khoẻ khoắn mang hơi hướm thể thao nhưng lại phù hợp với thời trang đường phố lạ thường."
+	},
+	{
+        "id": 5,
+        "image": "/",
+        "name": "Air Force 1 Low G-Dragon Peaceminusone Para-Noise Yellow Swoosh",
+        "price": "3,000,000",
+        "description": "Xuất ngũ sau hai năm dài, G-Dragon đã đánh dấu sự quay trở lại của mình bằng việc hợp tác với Nike trên nền đôi sneakers Air Force 1 – đây có lẽ là sự kiện HOT HIT không chỉ ở châu Á nói riêng mà cả thế giới nói chung."
+	},
+	{
+        "id": 6,
+        "image": "/",
+        "name": "New Balance 550 ‘Shadow’",
+        "price": "2,000,000",
+        "description": "Cách tiếp thị thông minh đến từ thương hiệu New Balance đã tạo cho mình một lối đi riêng biệt. Nhiều ngôi sao hạng A của Hollywood là đối tác cũng như là khách hàng trung thành của New Balance. Đơn cử là model New Balance 574."
+	},
+	{
+        "id": 7,
+        "image": "/",
+        "name": "Air Force 1 X Dior",
+        "price": "1,000,000",
+        "description": "Mặc dù Air Force 1 x DIOR không được xem như là phiên bản chính thức được ra mắt nhưng thành công mà DIOR đã mang đến khi quyết định collab với Nike đủ để làm rung chuyển những tín đồ yêu thời trang của “nền văn hóa mặt đất”."
+	},
+	{
+        "id": 8,
+        "image": "/",
+        "name": "Adidas Falcon Acid House",
+        "price": "1,500,000",
+        "description": "Falcon là ví dụ điển hình cho xu hướng sáng tạo và học hỏi không ngừng của hãng giày đạt doanh thu số 1 toàn cầu năm 2019. Kyile Jenner đã trở thàng người quảng bá hình ảnh cho dòng giày ra mắt vào mùa Hè năm nay. "
+	},
+    {
+        "id": 9,
+        "image": "/",
+        "name": "Air More Uptempo Red",
+        "price": "2,500,000",
+        "description": "Nike Air More Uptempo được ra mắt vào năm 1996 và chiếm được nhiều yêu mến. Đôi sneakers với phom dáng to cồng kềnh nổi bật với chữ “AIR” bên thân. Chi tiết lấy cảm hứng từ văn hoá graffiti thập niên 90. Thiết kế nhanh chóng trở thành một đôi giày iconic và cộng đồng giày đánh giá cao. "
+	}
+]
+}
